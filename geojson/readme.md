@@ -1,1 +1,1 @@
-Geojson visualisations are described in [Geojson Visualisation Of Non-Orthogonal Building Polygons.md](Geojson_Visualisation_Non_Orthogonal_Building_Polygons.md)
+Geojson visualisations are described in [Visualisation of Building Polygons with irregular Geometry](Geojson_Visualisation_Building_Polygons_with_Irregular_Geometry.md)
