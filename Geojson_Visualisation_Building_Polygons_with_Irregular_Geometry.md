@@ -10,5 +10,5 @@ Filtering an OSM Building Polygons file for buildings that deviate to a certain 
 
 **OSM Source file** : [Portsmouth Import project final-josm.osm 2019-06-12](source/2019_06_12_portsmouth_osm_imports_final_josm.osm.gz) copied from 
 [portsmouth-osm-imports Github Repo](https://github.com/jonahadkins/portsmouth-osm-imports)
-<br/> **Geojson Visualisation** : [15,516 Building Polygons with irregular angles](geojson/2019_06_12_portsmouth_building_import_Polygon_with_irregular_angle.geojson)
+<br/> **Geojson Visualisation** : [15,516 Building Polygons with irregular angles](geojson/2019_06_12_portsmouth_building_import_Polygons_with_irregular_angles.geojson)
 <br/>  15,516 buildings (32% of the Import project) are flagged for irregular angles
