@@ -4,7 +4,7 @@
 
 Filtering an OSM Building Polygons file for buildings that deviate to a certain degree from Regular forms let's produce a Ratio Indicator of Non-Regular polygons and an output file for buildings to look at more closely to explain deviations from regular geometries.
 <br/>**Quasi-orthogonal angles definition** : angles [ between 80 - 100 degrees (quasi right angle) , or 175 - 185 degrees (quasi straigth line) ] 
-<br/>**Regular angles definition** : constant angle geoemetries [ average angle +- 5 degrees ] (example for hexagone : 120 degrees +-5) 
+<br/>**Regular angles definition** : constant angle geometries [ average angle +- 5 degrees ] (example for hexagone : 120 degrees +-5) 
 
 ### 2019-06-12 City of Portsmouth, Virginia Building Footprints & Addresses 
 
